@@ -37,4 +37,40 @@ A comprehensive **web-based platform** built to streamline labor scheduling, tra
 git clone https://github.com/your-username/labor-scheduling-management.git
 cd labor-scheduling-management
 ```
+Install dependencies:
+```bash
+npm install
+```
+Run the development server:
+```bash
+npm run dev
+```
+
+### Backend Setup
+- Install backend dependencies and set up your database configurations.
+- Build and run the backend API using .NET CLI or Visual Studio.
+
+### Features Walkthrough
+- A detailed walkthrough with tooltips and guided tours for easy navigation and user onboarding. For first-time users, follow the interactive tutorial included in the application.
+
+## Contact
+
+For inquiries or feedback, please reach out to us:
+
+- Email: [your-email@domain.com](mailto:your-email@domain.com)
+- Website: [yourwebsite.com](http://yourwebsite.com)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile)
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+![Dashboard Screenshot](https://link-to-screenshot1.com)
+![Labor Performance Screenshot](https://link-to-screenshot2.com)
+
 
