@@ -18,7 +18,7 @@ A comprehensive **web-based platform** built to streamline labor scheduling, tra
 
 - **Frontend**: React, Redux, TailwindCSS, Bootstrap, JS, TanStack
 - **Backend**: .NET
-- **Database**: MS-SQL
+- **Database**: MSSQL
 - **State Management**: Redux
 - **Real-Time Updates**: Redis
 - **API & Component Architecture**: API handler, reusable components, custom hooks
