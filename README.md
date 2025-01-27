@@ -53,14 +53,15 @@ npm run dev
 ### Features Walkthrough
 - A detailed walkthrough with tooltips and guided tours for easy navigation and user onboarding. For first-time users, follow the interactive tutorial included in the application.
 
-## Contact
+## 📞 Let's Get Started
 
-For inquiries or feedback, please reach out to us:
+Ready to enhance your business with custom tech solutions? Get in touch with us today, and let's discuss how we can help you grow.
 
-- Email: [your-email@domain.com](mailto:your-email@domain.com)
-- Website: [yourwebsite.com](http://yourwebsite.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile)
+📧 Contact us at: ritesh.suri@suretekinfosoft.com  
+🌐 Visit our website: https://suretekinfosoft.com   
+🔗 Linkedin: [LinkedIn Profile](https://www.linkedin.com/company/suretek-infosoft-pvt--ltd-/posts/?feedView=all)
+
+---
 
 ## License
 
