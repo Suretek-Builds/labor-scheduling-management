@@ -71,7 +71,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Here are some screenshots of the application in action:
 
-![Dashboard Screenshot](https://link-to-screenshot1.com)
-![Labor Performance Screenshot](https://link-to-screenshot2.com)
+![Report Screenshot](assets/images/report-screenshot.png)
+![Report Loading Skeleton](assets/images/loading-skeleton.png)
 
 
